@@ -1,5 +1,5 @@
 import cv2
 
-img = cv2.imread("good.jpg")
+img = cv2.imread("High.jpg")
 
 cv2.imshow(img."window")
